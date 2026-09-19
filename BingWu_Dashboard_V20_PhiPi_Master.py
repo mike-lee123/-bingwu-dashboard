@@ -387,15 +387,9 @@ with st.sidebar:
     st.header("🔌 永豐 API 戰情看板")
     st.markdown("---")
     
-    # 憑證從 .streamlit/secrets.toml (本機) 或 Streamlit Cloud 的 Secrets 讀取，不寫死在程式裡
-    try:
-        DEFAULT_API_KEY = st.secrets.get("SHIOAJI_API_KEY", "")
-        DEFAULT_SECRET_KEY = st.secrets.get("SHIOAJI_SECRET_KEY", "")
-    except Exception:
-        DEFAULT_API_KEY = DEFAULT_SECRET_KEY = ""
-
-    api_key_input = st.text_input("API Key", type="password", value=DEFAULT_API_KEY)
-    secret_key_input = st.text_input("Secret Key", type="password", value=DEFAULT_SECRET_KEY)
+    # 憑證由使用者自行在此欄位填寫，不寫入程式或 Secrets
+    api_key_input = st.text_input("API Key", type="password")
+    secret_key_input = st.text_input("Secret Key", type="password")
     
     if st.button("🚀 啟動 API 連線", use_container_width=True):
         if api_key_input and secret_key_input:
