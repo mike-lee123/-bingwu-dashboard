@@ -1,0 +1,11 @@
+{
+  "date": "2025-12-23",
+  "engine": "Phi–π Market Engine",
+  "mode": "paper",
+  "summary": {
+    "signals_total": 32,
+    "trades": 32,
+    "win_rate": 0.0,
+    "net_pnl": 0.0
+  }
+}

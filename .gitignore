@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+*.docx
+永豐證券/
+.streamlit/secrets.toml
+
+# 程式執行時產生的狀態檔
+output/analysis/
+output/ledger/
+
+# 含有寫死憑證的舊腳本，不上傳
+BingWu_Shioaji_Feed.py
+BingWu_Dashboard_V19.py
+BingWu_Ultimate_Sniper_V19.py
+test.py
+A.txt

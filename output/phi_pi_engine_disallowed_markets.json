@@ -1,0 +1,125 @@
+{
+  "date": "2025-12-20",
+  "engine": "Phi–π Market Engine",
+  "timeframe": "1D",
+  "count": 9,
+  "markets": [
+    {
+      "market": "2330.TW",
+      "trade_permission": "不允許",
+      "direction": "不交易",
+      "structure_check": {
+        "opening_gap": "成立",
+        "breath_check": "不成立",
+        "retracement_0_618": "成立",
+        "sqrt10_scale": "安全",
+        "pi_time_risk": "安全"
+      },
+      "system_state": "無生命期"
+    },
+    {
+      "market": "2317.TW",
+      "trade_permission": "不允許",
+      "direction": "不交易",
+      "structure_check": {
+        "opening_gap": "成立",
+        "breath_check": "不成立",
+        "retracement_0_618": "不成立",
+        "sqrt10_scale": "安全",
+        "pi_time_risk": "安全"
+      },
+      "system_state": "無生命期"
+    },
+    {
+      "market": "0050.TW",
+      "trade_permission": "不允許",
+      "direction": "不交易",
+      "structure_check": {
+        "opening_gap": "成立",
+        "breath_check": "不成立",
+        "retracement_0_618": "成立",
+        "sqrt10_scale": "安全",
+        "pi_time_risk": "安全"
+      },
+      "system_state": "無生命期"
+    },
+    {
+      "market": "3317.TWO",
+      "trade_permission": "不允許",
+      "direction": "不交易",
+      "structure_check": {
+        "opening_gap": "不成立",
+        "breath_check": "不成立",
+        "retracement_0_618": "不成立",
+        "sqrt10_scale": "安全",
+        "pi_time_risk": "安全"
+      },
+      "system_state": "無生命期"
+    },
+    {
+      "market": "2360.TW",
+      "trade_permission": "不允許",
+      "direction": "不交易",
+      "structure_check": {
+        "opening_gap": "不成立",
+        "breath_check": "不成立",
+        "retracement_0_618": "成立",
+        "sqrt10_scale": "安全",
+        "pi_time_risk": "安全"
+      },
+      "system_state": "無生命期"
+    },
+    {
+      "market": "2883.TW",
+      "trade_permission": "不允許",
+      "direction": "不交易",
+      "structure_check": {
+        "opening_gap": "不成立",
+        "breath_check": "不成立",
+        "retracement_0_618": "成立",
+        "sqrt10_scale": "安全",
+        "pi_time_risk": "安全"
+      },
+      "system_state": "無生命期"
+    },
+    {
+      "market": "2603.TW",
+      "trade_permission": "不允許",
+      "direction": "不交易",
+      "structure_check": {
+        "opening_gap": "不成立",
+        "breath_check": "不成立",
+        "retracement_0_618": "成立",
+        "sqrt10_scale": "安全",
+        "pi_time_risk": "安全"
+      },
+      "system_state": "無生命期"
+    },
+    {
+      "market": "4763.TW",
+      "trade_permission": "不允許",
+      "direction": "不交易",
+      "structure_check": {
+        "opening_gap": "不成立",
+        "breath_check": "不成立",
+        "retracement_0_618": "成立",
+        "sqrt10_scale": "安全",
+        "pi_time_risk": "安全"
+      },
+      "system_state": "無生命期"
+    },
+    {
+      "market": "2211.TW",
+      "trade_permission": "不允許",
+      "direction": "不交易",
+      "structure_check": {
+        "opening_gap": "不成立",
+        "breath_check": "不成立",
+        "retracement_0_618": "成立",
+        "sqrt10_scale": "安全",
+        "pi_time_risk": "安全"
+      },
+      "system_state": "無生命期"
+    }
+  ]
+}

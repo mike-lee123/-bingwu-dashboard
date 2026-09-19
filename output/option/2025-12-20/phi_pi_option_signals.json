@@ -1,0 +1,14 @@
+{
+  "date": "2025-12-20",
+  "engine": "Phi–π Option Adapter",
+  "signals": [
+    {
+      "market": "2408.TW",
+      "action": "BUY_OPTION",
+      "structure": "ATM_CALL",
+      "dte": 21,
+      "size_factor": 0.6,
+      "reason": "Phi–π 主升期允許（Breath ≥ 1.0066）"
+    }
+  ]
+}

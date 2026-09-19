@@ -1,0 +1,23 @@
+{
+  "signal_date": "2026-08-26",
+  "window": "09:30-10:30",
+  "mode": "Embedded Live Preview",
+  "markets": [
+    {
+      "market": "2330.TW",
+      "date": "2026-08-26",
+      "dte": 21,
+      "breath_value": 1.175644,
+      "vol_state": "high",
+      "notes": "embedded historical-safe"
+    },
+    {
+      "market": "2881.TW",
+      "date": "2026-08-26",
+      "dte": 21,
+      "breath_value": 1.597065,
+      "vol_state": "high",
+      "notes": "embedded historical-safe"
+    }
+  ]
+}

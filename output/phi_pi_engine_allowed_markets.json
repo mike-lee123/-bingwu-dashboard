@@ -1,0 +1,21 @@
+{
+  "date": "2025-12-20",
+  "engine": "Phi–π Market Engine",
+  "timeframe": "1D",
+  "count": 1,
+  "markets": [
+    {
+      "market": "2408.TW",
+      "trade_permission": "允許",
+      "direction": "多",
+      "structure_check": {
+        "opening_gap": "成立",
+        "breath_check": "成立",
+        "retracement_0_618": "成立",
+        "sqrt10_scale": "安全",
+        "pi_time_risk": "安全"
+      },
+      "system_state": "主升期"
+    }
+  ]
+}
