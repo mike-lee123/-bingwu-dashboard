@@ -8,7 +8,6 @@ __pycache__/
 
 # 程式執行時產生的狀態檔
 output/analysis/
-output/ledger/
 
 # 含有寫死憑證的舊腳本，不上傳
 BingWu_Shioaji_Feed.py
